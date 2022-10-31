@@ -1,0 +1,148 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "juandavid@gmail.com",
+      "name": "Juan David Silva",
+      "passworld": "juan1",
+      "address": "Calle 50 - 80b 34",
+      "image": "https://raw.githubusercontent.com/jennyquinto/Img/main/Ellipse1.png"
+    },
+    {
+      "id": 2,
+      "email": "maria-alejandra@gmail.com",
+      "name": "Maria Alejandra Torres",
+      "passworld": "maria2",
+      "address": "Ave 60 - 90a 4",
+      "image": "https://raw.githubusercontent.com/jennyquinto/Img/main/Ellipse5.png"
+    },
+    {
+      "id": 3,
+      "email": "jennyquinto@gmail.com",
+      "name": "Jenny Vanessa Quinto Córdoba",
+      "passworld": "+1152192772Jv+",
+      "address": "Cr 99c # 48b - 30",
+      "image": "https://raw.githubusercontent.com/jennyquinto/Img/main/Ellipse2.png"
+    },
+    {
+      "id": 4,
+      "email": "gustavosilva@gmail.com",
+      "name": "Gustavo Silva",
+      "passworld": "Gustavo4",
+      "address": "Cr 179c # 50d - 10",
+      "image": "https://raw.githubusercontent.com/jennyquinto/Img/main/Ellipse3.png"
+    }
+  ],
+  "menu": [
+    {
+      "id": 1,
+      "name": "MARGHERITA",
+      "description": "Pizza súper especial para Frontends",
+      "price": 3.5,
+      "image": "https://pizzium.com/wp-content/uploads/2022/02/MARGHERITA-1-300x300.jpg"
+    },
+    {
+      "id": 2,
+      "name": "JAMÓN Y QUESO",
+      "description": "Javascript + React Pizza",
+      "price": 5.05,
+      "image": "https://pizzium.com/wp-content/uploads/2022/02/Trentino-2-300x300.jpg"
+    },
+    {
+      "id": 3,
+      "name": "VEGETARIANA",
+      "description": "Master CSS Pizza",
+      "price": 4.10,
+      "image": "https://pizzium.com/wp-content/uploads/2022/02/BASILICATA-ESTATE22-300x300.jpg"
+    },
+    {
+      "id": 4,
+      "name": "ROSSA",
+      "description": "Frameworks Lovers",
+      "price": 3.99,
+      "image": "https://pizzium.com/wp-content/uploads/2022/02/MARINARA-1-300x300.jpg"
+    },
+    {
+      "id": 5,
+      "name": "PEPPERONI",
+      "description": "Pizza súper especial para Frontends",
+      "price": 4.63,
+      "image": "https://pizzium.com/wp-content/uploads/2022/02/TOSCANA-ESTATE-22-300x300.jpg"
+    },
+    {
+      "id": 6,
+      "name": "BUFALINA",
+      "description": "Frameworks Lovers",
+      "price": 5.99,
+      "image": "https://pizzium.com/wp-content/uploads/2022/02/PUGLIA-1-300x300.jpg"
+    },
+    {
+      "id": 7,
+      "name": "",
+      "description": "Pizza súper especial para Frontends",
+      "price": 3.50,
+      "image": "https://pizzium.com/wp-content/uploads/2022/02/BUFALINA-SL-300x300.jpg"
+    },
+    {
+      "id": 8,
+      "name": "PROSCIUTTO E FUNGHI",
+      "description": "Javascript + React Pizza",
+      "price": 4.25,
+      "image": "https://www.comedera.com/wp-content/uploads/2022/04/Pizza-prosciutto-e-funghi-shutterstock_1685294995.jpg"
+    },
+    {
+      "id": 9,
+      "name": "HAWAINA",
+      "description": "Master CSS Pizza",
+      "price": 4.0,
+      "image": "https://cdn2.cocinadelirante.com/sites/default/files/styles/gallerie/public/images/2019/11/como-hacer-pizza-hawaiana.jpg"
+    },
+    {
+      "id": 10,
+      "name": "MARINARA",
+      "description": "Frameworks Lovers",
+      "price": 2.99,
+      "image": "https://pizzium.com/wp-content/uploads/2022/06/MARINARA-SECONDO-PIZZIUM-300x300.jpg"
+    }
+  ],
+  "shopping": [
+    {
+      "id": 1,
+      "pizzaId": 1,
+      "quantity": 2,
+      "price": 7,
+      "userId": 2
+    },
+    {
+      "id": 2,
+      "pizzaId": 7,
+      "quantity": 1,
+      "price": 3.50,
+      "userId": 1
+    },
+    {
+      "id": 3,
+      "pizzaId": 5,
+      "quantity": 3,
+      "price": 13.89,
+      "userId": 1
+    }
+  ],
+
+  "review": [
+    {
+      "id": 1,
+      "pizzaId": 5,
+      "userId": 1,
+      "ratign": 3,
+      "comment": "Llegó fría y después de una hora del tiempo de entrega."
+    },
+    {
+      "id": 2,
+      "pizzaId": 1,
+      "userId": 2,
+      "ratign": 5,
+      "comment": "De las mejores pizzas que he probado recomendada."
+    }
+  ]
+}
