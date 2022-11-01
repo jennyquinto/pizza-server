@@ -108,21 +108,21 @@
   "shopping": [
     {
       "id": 1,
-      "pizzaId": 1,
+      "menuId": 1,
       "quantity": 2,
       "price": 7,
       "userId": 2
     },
     {
       "id": 2,
-      "pizzaId": 7,
+      "menuId": 7,
       "quantity": 1,
       "price": 3.50,
       "userId": 1
     },
     {
       "id": 3,
-      "pizzaId": 5,
+      "menuId": 5,
       "quantity": 3,
       "price": 13.89,
       "userId": 1
@@ -132,14 +132,14 @@
   "review": [
     {
       "id": 1,
-      "pizzaId": 5,
+      "menuId": 5,
       "userId": 1,
       "ratign": 3,
       "comment": "Llegó fría y después de una hora del tiempo de entrega."
     },
     {
       "id": 2,
-      "pizzaId": 1,
+      "menuId": 1,
       "userId": 2,
       "ratign": 5,
       "comment": "De las mejores pizzas que he probado recomendada."
