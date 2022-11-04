@@ -45,12 +45,14 @@
         {
         "id":1,
         "userName":"Gustavo Silva",
+        "userImage":"https://raw.githubusercontent.com/jennyquinto/Img/main/Ellipse3.png",
         "rating":1,
         "comment":"taba fea"
         },
         {
           "id":2,
           "userName":"Juan David Silva",
+          "userImage":"https://raw.githubusercontent.com/jennyquinto/Img/main/Ellipse1.png",
           "rating":2,
           "comment":"Lo de arriba x2"
           }
@@ -90,12 +92,14 @@
         {
         "id":1,
         "userName":"Gustavo Silva",
+        "userImage":"https://raw.githubusercontent.com/jennyquinto/Img/main/Ellipse3.png",
         "rating":1,
         "comment":"taba fea"
         },
         {
           "id":2,
           "userName":"Juan David Silva",
+          "userImage":"https://raw.githubusercontent.com/jennyquinto/Img/main/Ellipse1.png",
           "rating":2,
           "comment":"Lo de arriba x2"
           }
